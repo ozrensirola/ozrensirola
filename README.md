@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @ozrensirola and I live and work in Rijeka, Croatia ...
+- 👀 I’m interested in software programming ...
+- 🌱 I’m currently developing web application for insurance companies ...
+- 📫 You can reach me on my mail address ozren@incubis.hr
+
+<!---
+ozrensirola/ozrensirola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
